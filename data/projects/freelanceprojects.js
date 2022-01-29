@@ -1,18 +1,18 @@
 export default [
 	{
-		projectName: "SnylloAir.com",
+		projectName: "DailyGate",
 		image: "images/snylloair.png",
 		summary:
-			"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-		preview: "https://www.snylloair.com/",
-		techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
+			"Project and Task Management application with Multi-Level analytics to generate Key Performance Indicators for Decision Making and increasing efficiency.",
+		preview: "https://apps.apple.com/in/app/dailygate/id1455356619",
+		techStack: ["Xcode", "Swift", "AWS-S3", "GRDB", "SQLite", "OneSignal", "Offline-First", "NSCache"],
 	},
 	{
-		projectName: "Delivery+",
+		projectName: "Grahvik",
 		image: "images/AM-Logo-.png",
 		summary:
-			"Android Application to display website in android devices.",
-		preview: "https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-		techStack: ["Android", "JAVA", "Play Store"],
+			"A grahvik is a platform to advertise industrial scrap or waste to be recycled, procure or advertise products or services",
+		preview: "http://3.92.176.74/grahvik",
+		techStack: ["Flutter", "Dart", "Statemanagement", "Provider", "Mobx", "GooglePlaces"],
 	}
 ];

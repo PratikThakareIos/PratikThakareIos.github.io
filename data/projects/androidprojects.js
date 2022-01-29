@@ -1,18 +1,18 @@
 export default [
 	{
-		projectName: "NITW-CSE",
+		projectName: "Acufire",
 		image: "images/nitwcse.jpg",
 		summary:
-			"The Application display details of Department courses, reference books, research, publication and faculty profile.",
-		preview: "https://github.com/vinaysomawat/NITW-CSE",
-		techStack: ["JAVA", "XML", "Android"],
+			"The Application display details and Alert if Fire fighiting Equipments and faculties.",
+		preview: "https://play.google.com/store/apps/details?id=com.acufire.mobileapp",
+		techStack: ["Dart", "Charts", "Flutter", "IOT"],
 	},
 	{
-		projectName: "CareerHigh-App",
+		projectName: "Callific",
 		image: "images/carrerhigh.png",
 		summary:
-			"The Application display the webpages of website careerhigh.in in android devices.",
-		preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-		techStack: ["JAVA", "XML", "Android"],
+			"The Application for QuickInsure agents to get details of customers and insurance status",
+		preview: "https://play.google.com/store/apps/details?id=com.quickinsure.callcenter",
+		techStack: ["Dart", "Flutter", "Charts", "Call Share"],
 	}
 ];
