@@ -1,47 +1,42 @@
 export default [
 	{
-		skillName: "JavaScript, C++",
+		skillName: "Swift",
 		color: "1",
-	    percentage: "70"
+	    percentage: "80"
     },
     {
-		skillName: "Angular, Reactjs",
+		skillName: "Objective C",
 		color: "6",
+	    percentage: "70"
+	},
+    {
+		skillName: "Flutter, Dart",
+		color: "2",
 	    percentage: "50"
 	},
     {
-		skillName: "Nodejs, MongoDB",
-		color: "2",
-	    percentage: "40"
-	},
-    {
-		skillName: "AWS(EC2, S3), Heroku, Netlify",
+		skillName: "Reactive: RxSwift, RxCocoa, Combine",
 		color: "3",
-	    percentage: "30"
+	    percentage: "70"
 	},
     {
-		skillName: "HTML, Bootstrap, SCSS",
+		skillName: "CI/CD: Fastlane, Bitrise, Jenkins, TestFlight",
 		color: "4",
-	    percentage: "70"
+	    percentage: "60"
 	},
     {
-		skillName: "GitHub, JIRA, Trello",
+		skillName: "Slack, JIRA, Trello, Pivotal, Monday",
 		color: "7",
-	    percentage: "70"
-	},
-    {
-		skillName: "Postman, Chrome DevTools",
-		color: "3",
 	    percentage: "80"
 	},
     {
-		skillName: "CleverTap, FreshDesk",
-		color: "5",
-	    percentage: "50"
+		skillName: "Git, Github, Gitlab, BitBucket",
+		color: "3",
+	    percentage: "90"
 	},
     {
-		skillName: "VS Code",
-		color: "6",
+		skillName: "CleverTap, Appsflyer, Firebase, Newrelic",
+		color: "5",
 	    percentage: "70"
-	}
+	},
 ];
