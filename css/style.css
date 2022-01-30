@@ -2139,7 +2139,7 @@ ul {
 
 .submenu {
 	display: none;
-	background: #f9bf3f;
+	background: #a58ea0;
 	font-size: 14px;
 	padding-left: 0px;
 }
@@ -2150,7 +2150,7 @@ ul {
 }
 
 .submenu li:hover {
-	background: rgba(255, 255, 0, 0.705);
+	background: #6e4966;
 	border-radius: 20px;
 	color: #fff;
 }
