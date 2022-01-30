@@ -22,7 +22,7 @@ export default [
 		summary:
 			"Zero Trust Access in a Post-VPN World. Continuous access enforcement & authorisation for members",
 		preview: "https://apps.apple.com/in/app/banyan-security/id1520459299",
-		techStack: ["Swift" "MVC", "Almofire", "Ceritificate", "Profile", "SSL", "Server Auth"],
+		techStack: ["Swift", "MVC", "Almofire", "Ceritificate", "Profile", "SSL", "Server Auth"],
 	},
 	{
 		projectName: "Simply Smart",
