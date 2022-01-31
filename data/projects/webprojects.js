@@ -34,7 +34,7 @@ export default [
 	},
 	{
 		projectName: "uskimuski",
-		image: "images/uskimuski",
+		image: "images/uskimuski.jpeg",
 		summary:
 			"A magical world of fun, excitement, and learning for kids. Uskimuski is a platform that enables kids to learn about life and the world at large, through enchanting stories, exciting games & fun activities, and that too in the company of their family members!",
 		preview: "https://apps.apple.com/in/app/glluu/id1462762714",
@@ -42,7 +42,7 @@ export default [
 	},
 	{
 		projectName: "Supreme Golf Mobile",
-		image: "images/supremegolf",
+		image: "images/supremegolf.png",
 		summary:
 			"Supreme Golf is the world's largest tee time search engine.It help player search,book,play golf and support all mobile platforms.",
 		preview: "https://apps.apple.com/in/app/supreme-golf-book-tee-times/id909762897",
@@ -58,7 +58,7 @@ export default [
 	},
 	{
 		projectName: "POLARIS - Augmented Reality",
-		image: "images/polaris",
+		image: "images/polaris.png",
 		summary:
 			"POLARIS is an Augmented Reality app to help millennials to learn about the Earth. With a 3D Earth model to let you explore geographical data & trends like climate change, coffee consumption, employment rate, forest loss, other 10+ filters.",
 		preview: "https://apps.apple.com/in/app/polaris-ar-filters-for-earth/id1266627892",
@@ -66,7 +66,7 @@ export default [
 	},
 	{
 		projectName: "Instant - Lifelog | Rescue Screen Time",
-		image: "images/instant",
+		image: "images/instant.png",
 		summary:
 			"Your life on a dashboard! Automatically track the time you spend on your iPhone, fitness time, places, sleep and travel with Instant. Featured by Apple, TechCrunch, The New York Times, #1 on ProductHunt!",
 		preview: "https://apps.apple.com/in/app/instant-lifelog-screen-time/id991690667",
