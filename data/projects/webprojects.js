@@ -34,7 +34,7 @@ export default [
 	},
 	{
 		projectName: "uskimuski",
-		image: "images/uskimuski.jpeg",
+		image: "images/uskimuski.png",
 		summary:
 			"A magical world of fun, excitement, and learning for kids. Uskimuski is a platform that enables kids to learn about life and the world at large, through enchanting stories, exciting games & fun activities, and that too in the company of their family members!",
 		preview: "https://apps.apple.com/in/app/glluu/id1462762714",
