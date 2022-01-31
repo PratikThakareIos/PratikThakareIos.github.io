@@ -12,7 +12,7 @@ export default [
     {
 		text: "Instagram",
 		color: "darkgreen",
-	    link: "https://www.facebook.com/pratik.thakare1"
+	    link: "https://www.instagram.com/pratikthakare__"
     },
     {
 		text: "GitHub",
