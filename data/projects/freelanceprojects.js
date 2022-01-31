@@ -1,7 +1,7 @@
 export default [
 	{
 		projectName: "DailyGate",
-		image: "images/snylloair.png",
+		image: "images/dailygate",
 		summary:
 			"Project and Task Management application with Multi-Level analytics to generate Key Performance Indicators for Decision Making and increasing efficiency.",
 		preview: "https://apps.apple.com/in/app/dailygate/id1455356619",
@@ -9,7 +9,7 @@ export default [
 	},
 	{
 		projectName: "Grahvik",
-		image: "images/AM-Logo-.png",
+		image: "images/grahvik",
 		summary:
 			"A grahvik is a platform to advertise industrial scrap or waste to be recycled, procure or advertise products or services",
 		preview: "http://3.92.176.74/grahvik",

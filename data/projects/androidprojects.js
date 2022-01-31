@@ -1,7 +1,7 @@
 export default [
 	{
 		projectName: "Acufire",
-		image: "images/nitwcse.jpg",
+		image: "images/acufire.png",
 		summary:
 			"The Application display details and Alert if Fire fighiting Equipments and faculties.",
 		preview: "https://play.google.com/store/apps/details?id=com.acufire.mobileapp",
@@ -9,7 +9,7 @@ export default [
 	},
 	{
 		projectName: "Callific",
-		image: "images/carrerhigh.png",
+		image: "images/callific.png",
 		summary:
 			"The Application for QuickInsure agents to get details of customers and insurance status",
 		preview: "https://play.google.com/store/apps/details?id=com.quickinsure.callcenter",
