@@ -2201,3 +2201,33 @@ span {
 .finalText {
 	margin-bottom: 0px;
 }
+
+.project-card .resume-item{
+	display: flex;
+}
+.project-card .resume-content{margin-right: 15px;}
+.project-card .resume-content img{
+	float: inherit;
+	margin: 0;
+	width: 180px;
+	max-width: 180px;
+	height: auto;
+	padding: 0 !important;
+}
+.project-card .project-description{margin-top: 0;}
+
+@media (max-width: 768px) {
+	.project-card .resume-item{
+		flex-direction: column;
+	}
+	.project-card .resume-content{margin-right: 0;}
+	.project-card .resume-content img{
+		width: 100%;
+		max-width: 480px;
+		margin-bottom: 15px;
+	}
+	section[data-section="projects"] .accordion {
+    padding-left: 5px;
+    padding-right: 5px;
+	}
+}
